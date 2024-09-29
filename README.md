@@ -4,6 +4,11 @@
 - languages: Javascript, Typescript, Rust
 - I enjoy everything about web development except css. 
 
-- Quote: Ma nodzi bokoboko (keeping on keeping on slowly)
+<p>
+  <samp>
+    <a href="github.com/chiefportable">me</a> .
+    <a href="twitter.com/chiefportable">twitter</a>
+  </samp>
+</p>
 
 
