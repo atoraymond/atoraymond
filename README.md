@@ -1,8 +1,6 @@
 #### Hi There 👋
 
-- Building stuff, Learning Rust.
-- languages: Javascript, Typescript, Rust
-- I enjoy everything about web development except css. 
+- Rise Up Wise Up Eyes Up 
 
 <p>
   <samp>
