@@ -2,6 +2,8 @@
 
 - Rise Up Wise Up Eyes Up 
 
+<img src="board.jpg"/>
+
 <p>
   <samp>
     <a href="https://github.com/misteread">me</a> .
