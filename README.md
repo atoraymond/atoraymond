@@ -2,6 +2,8 @@
 
 My name is Raymond Ato Ghanney, I am a software developer with skill mainly in web developement
 
+and I am currently learning Go, will look into rust in the future
+
 - Rise Up Wise Up Eyes Up 
 
 <p>
