@@ -1,8 +1,8 @@
 #### Hi There 👋
 
-- Rise Up Wise Up Eyes Up 
+My name is Raymond Ato Ghanney, I am a software developer with skill mainly in web developement
 
-<img src="board.jpg"/>
+- Rise Up Wise Up Eyes Up 
 
 <p>
   <samp>
