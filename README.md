@@ -4,6 +4,14 @@ My name is Raymond Ato Ghanney, I am a software developer with skill mainly in w
 
 and I am currently learning Go, will look into rust in the future
 
+**Languages**
+
+![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1581BF?style=for-the-badge&logo=go&logoColor=black)
+![Deno](https://img.shields.io/badge/Deno-1581BF?style=for-the-badge&logo=deno&logoColor=black)
+
+
+
 - Rise Up Wise Up Eyes Up 
 
 <p>
