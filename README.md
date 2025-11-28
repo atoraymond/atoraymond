@@ -1,6 +1,6 @@
 #### Hi There 👋
 
-My name is Raymond Ato Ghanney, I am a software developer with skill mainly in web developement
+My name is Raymond Ato Ghanney, I am a software developer with skills mainly in web developement
 
 and I am currently learning Go, will look into rust in the future
 
